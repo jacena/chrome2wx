@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+## 这是什么
 
-You can use the [editor on GitHub](https://github.com/jacena/chrome2wx.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+这是一款chrome浏览器插件
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 他能干什么
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+他能快速的把一个打开的网页发送到手机并在手机上浏览
 
 ```markdown
 Syntax highlighted code block
