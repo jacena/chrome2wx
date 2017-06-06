@@ -25,18 +25,30 @@
 
 ## 如何使用
 
+安装后浏览器地址栏右侧会出来一个手机📱的小图标，第一次点击会让你输入授权码~~ 如下图
+<img src="http://wx4.sinaimg.cn/mw690/65299059ly1fgbyqmvfs8g20di0ak0tx.gif" width="400" height="350" />
 
-## 常见问题
+授权码哪里来？？？好了，微信搜索公众号： now圈子  
+
+出来的画风是这样的，恩，是这样的
+
+<img src="http://wx3.sinaimg.cn/mw690/65299059ly1fgbz2475slj20ku0ku3yw.jpg" width="400" height="350" /> 
+
+这里不是只让你搜搜，你得关注~~
+
+关注完了，在公众号内发送 “授权码” 三个字，会返回一串字符串
+
+复制字符串，把它填入到图1中点击提交。
+
+当你再次点击手机小图标的时候发现弹框不见了，会弹出一个发送成功的提醒
+
+<img src="http://wx2.sinaimg.cn/mw690/65299059ly1fgbzjm98ayg20ca08875n.gif" width="400" height="350" />
+
+可以去手机上查看了
+
+### 常见问题
 
 
 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jacena/chrome2wx.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
