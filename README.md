@@ -1,12 +1,6 @@
-<<<<<<< HEAD
-## 这是什么
-
-这是一款chrome浏览器插件，You can use the [editor on GitHub](https://github.com/jacena/chrome2wx.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-=======
 ## 这是什么东西
 
 这是一款chrome浏览器插件
->>>>>>> 14746c53cddfee522ad3b76a298789b0a3c19864
 
 ## 为什么会有他
 
