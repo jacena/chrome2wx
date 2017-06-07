@@ -58,6 +58,14 @@
 
 2. [插件2.0下载](https://github.com/jacena/chrome2wx/blob/master/chrome_send_msg2.0.crx)
 
+
+## 讨论区
+
+  [bug反馈](https://github.com/jacena/chrome2wx/issues/1)
+  
+  [欢迎留言](https://github.com/jacena/chrome2wx/issues/2)
+  
+
 ### 常见问题
 
 
