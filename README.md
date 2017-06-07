@@ -32,13 +32,17 @@
 安装后浏览器地址栏右侧会出来一个手机📱的小图标，第一次点击会让你输入授权码~~ 如下图
 <img src="http://wx4.sinaimg.cn/mw690/65299059ly1fgbyqmvfs8g20di0ak0tx.gif" width="400" height="350" /> 图1看这里
 
-授权码哪里来？？？好了，微信搜索公众号： now圈子  
+授权码哪里来？？？好了，
+
+扫描二维码关注公众号
+
+<img src="http://wx2.sinaimg.cn/mw690/65299059ly1fgcjdpp1ptj207607674r.jpg" width="258" height="258" />
+
+或者微信搜索公众号： now圈子  
 
 出来的画风是这样的，恩，是这样的
 
 <img src="http://wx3.sinaimg.cn/mw690/65299059ly1fgbz2475slj20ku0ku3yw.jpg" width="400" height="350" /> 
-
-这里不是只让你搜搜，你得关注~~
 
 关注完了，在公众号内发送 “授权码” 三个字，会返回一串字符串
 
