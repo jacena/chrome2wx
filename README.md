@@ -15,13 +15,14 @@
 1. 浏览一个网页想看看手机上的效果
 2. 新闻看了一半，下班了，发手机路上看吧
 ```
-## 如何安装
+## 如何安装 [插件下载](https://github.com/jacena/chrome2wx/blob/master/chrome_send_msg2.0.crx)
 
 ```
-1. 下载插件压缩包  [插件下载](https://github.com/jacena/chrome2wx/blob/master/chrome_send_msg2.0.crx)
+1. 下载插件压缩包  
 2. chrome 浏览器地址输入： chrome://extensions/  回车
 3. 把.crx格式的压缩包拖到浏览器页面，松开~~~点击安装扩展
 ```
+再次放出插件下载地址 [插件下载](https://github.com/jacena/chrome2wx/blob/master/chrome_send_msg2.0.crx)
 
 ## 如何使用
 
