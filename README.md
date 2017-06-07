@@ -22,7 +22,7 @@
 2. chrome 浏览器地址输入： chrome://extensions/  回车
 3. 把.crx格式的压缩包拖到浏览器页面，松开~~~点击安装扩展
 ```
-再次放出插件下载地址 [插件下载](https://github.com/jacena/chrome2wx/blob/master/chrome_send_msg2.0.crx)
+再次放出插件下载地址 [插件下载](https://github.com/jacena/chrome2wx/blob/master/chrome_send_msg2.0.crx)  PS：点击 view raw 或者 download 都能达到下载的目的
 
 ## 如何使用
 
@@ -51,6 +51,12 @@
 
 <img src="http://wx4.sinaimg.cn/mw690/65299059ly1fgcendwr3pj20ku0xs40n.jpg" width="300" height="450" />
 
+
+## 历史版本
+
+1. ~~[插件1.0下载]~~
+
+2. [插件2.0下载](https://github.com/jacena/chrome2wx/blob/master/chrome_send_msg2.0.crx)
 
 ### 常见问题
 
