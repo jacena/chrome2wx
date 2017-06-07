@@ -1,37 +1,65 @@
+<<<<<<< HEAD
 ## 这是什么
 
 这是一款chrome浏览器插件，You can use the [editor on GitHub](https://github.com/jacena/chrome2wx.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+=======
+## 这是什么东西
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+这是一款chrome浏览器插件
+>>>>>>> 14746c53cddfee522ad3b76a298789b0a3c19864
 
-### Markdown
+## 为什么会有他
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+都说世界的进步是被懒人驱动的。这是我生活中的一个强需求，经常需要把PC端的网页发到手机上查看。而以前繁琐的操作令我深恶痛绝~~~ 于是我决定一懒到底
 
-```markdown
-Syntax highlighted code block
+## 能干什么
 
-# Header 1
-## Header 2
-### Header 3
+他能快速的把一个打开的网页发送到手机并在手机上浏览，多么快？一键发送！！！还不够快？`alt + s` 试试吧
 
-- Bulleted
-- List
+## 应用场景
+```
+1. 浏览一个网页想看看手机上的效果
+2. 新闻看了一半，下班了，发手机路上看吧
+```
+## 如何安装
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```
+1. 下载插件压缩包
+2. chrome 浏览器地址输入： chrome://extensions/  回车
+3. 把.crx格式的压缩包拖到浏览器页面，松开~~~点击安装扩展
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## 如何使用
 
-### Jekyll Themes
+安装后浏览器地址栏右侧会出来一个手机📱的小图标，第一次点击会让你输入授权码~~ 如下图
+<img src="http://wx4.sinaimg.cn/mw690/65299059ly1fgbyqmvfs8g20di0ak0tx.gif" width="400" height="350" />
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jacena/chrome2wx.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+授权码哪里来？？？好了，微信搜索公众号： now圈子  
 
-### Support or Contact
+出来的画风是这样的，恩，是这样的
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<img src="http://wx3.sinaimg.cn/mw690/65299059ly1fgbz2475slj20ku0ku3yw.jpg" width="400" height="350" /> 
+
+这里不是只让你搜搜，你得关注~~
+
+关注完了，在公众号内发送 “授权码” 三个字，会返回一串字符串
+
+复制字符串，把它填入到图1中点击提交。
+
+当你再次点击手机小图标的时候发现弹框不见了，会弹出一个发送成功的提醒
+
+<img src="http://wx2.sinaimg.cn/mw690/65299059ly1fgbzjm98ayg20ca08875n.gif" width="400" height="350" />
+
+可以去手机上查看了
+
+效果是这样的
+
+<img src="http://wx4.sinaimg.cn/mw690/65299059ly1fgcendwr3pj20ku0xs40n.jpg" width="300" height="450" />
+
+
+### 常见问题
+
+
+
+
+
