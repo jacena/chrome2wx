@@ -18,7 +18,7 @@
 ## 如何安装
 
 ```
-1. 下载插件压缩包
+1. 下载插件压缩包  [插件下载](https://github.com/jacena/chrome2wx/blob/master/chrome_send_msg2.0.crx)
 2. chrome 浏览器地址输入： chrome://extensions/  回车
 3. 把.crx格式的压缩包拖到浏览器页面，松开~~~点击安装扩展
 ```
