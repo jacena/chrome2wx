@@ -36,13 +36,11 @@
 
 扫描二维码关注公众号
 
-<img src="http://wx2.sinaimg.cn/mw690/65299059ly1fgcjdpp1ptj207607674r.jpg" width="258" height="258" />
+<img src="https://github.com/jacena/chrome2wx/blob/master/lutiejiang23.jpeg" width="700" height="258" />
 
-或者微信搜索公众号： now圈子  
+或者微信搜索公众号： 撸铁酱  
 
 出来的画风是这样的，恩，是这样的
-
-<img src="http://wx3.sinaimg.cn/mw690/65299059ly1fgbz2475slj20ku0ku3yw.jpg" width="400" height="350" /> 
 
 关注完了，在公众号内发送 “授权码” 三个字，会返回一串字符串
 
