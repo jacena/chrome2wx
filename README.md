@@ -54,7 +54,7 @@
 
 效果是这样的
 
-<img src="http://wx4.sinaimg.cn/mw690/65299059ly1fgcendwr3pj20ku0xs40n.jpg" width="300" height="450" />
+<img src="https://github.com/jacena/chrome2wx/blob/master/WechatIMG489.jpeg" width="300" height="550" />
 
 
 ## 历史版本
